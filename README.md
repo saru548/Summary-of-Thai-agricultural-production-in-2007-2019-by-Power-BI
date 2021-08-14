@@ -3,7 +3,8 @@ The Summary of Thai agricultural production in 2007-2019 (ผลผลิตท�
 The data source from data.go.th is the goverment public websize allowed to access and downloaded.
 
 
-***Thank you very much for free icon: <div>Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+** Special Thanks for free icons: <div>Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+
 
 1.The report generating by used the Power BI.
 ![image](https://user-images.githubusercontent.com/61858648/129433787-194cb6ab-9edb-424f-9f0c-c3b7d7c8e5d6.png)
