@@ -8,6 +8,6 @@ The data source from data.go.th is the goverment public websize allowed to acces
 
 Once completely, you can generating the Power BI like this
 
-Byprovince.PNG
+https://github.com/saru548/Summary-of-Thai-agricultural-production-in-2007-2019-2550-2562-/blob/87b876c4e90249f28bc64eb6fc34583d8b4da94b/Overview.PNG
 
 
