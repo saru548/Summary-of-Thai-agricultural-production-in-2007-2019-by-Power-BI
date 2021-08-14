@@ -8,4 +8,6 @@ The data source from data.go.th is the goverment public websize allowed to acces
 
 Once completely, you can generating the Power BI like this
 
+Byprovince.PNG
+
 
