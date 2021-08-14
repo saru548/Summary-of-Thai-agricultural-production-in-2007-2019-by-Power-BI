@@ -1,10 +1,12 @@
 # Summary-of-Thai-agricultural-production-in-2007-2019-2550-2562-
 The Summary of Thai agricultural production in 2007-2019 (ผลผลิตทางการเกษตรของประเทศไทยปี 2550-2562)
+
 The data source from data.go.th is the goverment public websize allowed to access and downloaded.
 
 
 ** Special Thanks for free icons: <div>Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
 
+I'd like to share from my developed and you can read as follows:
 
 1.The report generating by used the Power BI.
 ![image](https://user-images.githubusercontent.com/61858648/129433787-194cb6ab-9edb-424f-9f0c-c3b7d7c8e5d6.png)
@@ -20,6 +22,6 @@ an examples of csc file as below.
 
 Once completely, you can generating the Power BI like this
 
-![image](https://user-images.githubusercontent.com/61858648/129433741-134356bc-ffaf-43cd-bec6-6f75fe4564e7.png)
+
 
 
