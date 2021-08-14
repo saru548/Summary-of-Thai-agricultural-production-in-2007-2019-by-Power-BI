@@ -9,6 +9,10 @@ The data source from data.go.th is the goverment public websize allowed to acces
 2.In datasource "production_y_oae.csv", you can downloaded from the attach in the project or you able to downloaded from https://data.go.th/dataset/oae0001 .
 ![image](https://user-images.githubusercontent.com/61858648/129433806-207e12c5-07fe-4a0d-84f7-551472d8c8f9.png)
 
+an examples of csc file as below.
+![image](https://user-images.githubusercontent.com/61858648/129433958-ac7d1dbc-7135-4d68-b772-9d8c24f8cb80.png)
+
+
 
 Once completely, you can generating the Power BI like this
 
